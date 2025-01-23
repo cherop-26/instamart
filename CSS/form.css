@@ -1,0 +1,51 @@
+body{
+
+    background-color: slateblue;
+}
+#divone{
+    background-color: dodgerblue;
+    padding: 10px;
+    color: white;
+    width: 450px;
+    text-align: center;
+
+
+}#divtwo{
+    background-color: white;
+    padding: 10px;
+    width: 450px;
+ }
+ #main{
+     display: flex;
+     margin-left: 15%;
+     font-family: "Mongolian Baiti";
+     font-size: large;
+
+ }
+ button{
+     background-color:dodgerblue ;
+     border-radius: 15px;
+     width: 150px;
+     height: 40px;
+     color: white;
+     text-align: center;
+     margin-left: 120px;
+ }
+ #hone{
+     color: white;
+     padding-top: 50px;
+ }
+ #htwo{
+     margin-left: 110px;
+ }
+ input[type=text],input[type=email],input[type=text],input[type=tel],select{
+       width: 80%;
+    height: 40px;
+    margin-top: 4px;
+    padding-left: 10px;
+
+
+ }
+ form{
+     margin-left: 20px;
+ }
